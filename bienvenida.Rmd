@@ -38,14 +38,14 @@ class: center
 
 # Nuestros instructores
 
-```{r,echo=FALSE,out.width='56%',fig.align='center'}
-knitr::include_graphics("img/instructores2022.png")
+```{r,echo=FALSE,out.width='70%',fig.align='center'}
+knitr::include_graphics("img/instructores2023.png")
 ```
 
 ---
 # Nuestros ayudantes
 
-<br><br>
+<br>
 ```{r,echo=FALSE,out.width='100%',fig.align='center'}
 knitr::include_graphics("img/ayudantes.png")
 ```
@@ -96,7 +96,7 @@ knitr::include_graphics("img/youtube.png")
 knitr::include_url("https://comunidadbioinfo.github.io/es/codigo-de-conducta/")
 ```
 ---
-# Patrocinadores
+# Con el apoyo de
 
 <br><br><br>
 ```{r,echo=FALSE,out.width='100%',fig.align='center'}
