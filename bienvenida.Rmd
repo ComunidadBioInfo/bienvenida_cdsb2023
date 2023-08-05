@@ -38,7 +38,7 @@ class: center
 
 # Nuestros instructores
 
-```{r,echo=FALSE,out.width='70%',fig.align='center'}
+```{r,echo=FALSE,out.width='60%',fig.align='center'}
 knitr::include_graphics("img/instructores2023.png")
 ```
 
