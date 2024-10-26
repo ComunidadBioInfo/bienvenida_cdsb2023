@@ -1,9 +1,9 @@
 ---
-title: "Creando paquetes de R/Bioconductor para análisis transcriptómicos de célula única"
-date: "07-11 de agosto de 2023"
+title: "Desarrollo de paqueterías de R/Bioconductor"
+date: "28-31 de octubre de 2024"
 output:
   xaringan::moon_reader:
-    css: ["cdsb2023.css"]
+    css: ["bienvenida.css"]
     self_contained: true
     nature:
       ratio: '16:9'
@@ -39,24 +39,24 @@ class: center
 # Nuestros instructores
 
 ```{r,echo=FALSE,out.width='60%',fig.align='center'}
-knitr::include_graphics("img/instructores2023.png")
+knitr::include_graphics("img/instructores.png")
 ```
 
 ---
 # Nuestros ayudantes
 
 <br>
-```{r,echo=FALSE,out.width='100%',fig.align='center'}
-knitr::include_graphics("img/ayudantes.png")
+```{r,echo=FALSE,out.width='60%',fig.align='center'}
+#knitr::include_graphics("img/ayudantes.png")
 ```
 
 ---
 # Materiales
 
-.center[https://comunidadbioinfo.github.io/cdsb2023]
+.center[https://comunidadbioinfo.github.io/cdsb2024]
 
 ```{r,echo=FALSE,out.width='100%'}
-knitr::include_url("https://comunidadbioinfo.github.io/cdsb2023")
+knitr::include_url("https://comunidadbioinfo.github.io/cdsb2024")
 ```
 
 ---
@@ -76,7 +76,7 @@ knitr::include_graphics("img/slack.png")
 Canales importantes:
 - Bienvenida
 - General
-- cdsb2023
+- cdsb2024
 ]
 
 ---
@@ -95,6 +95,7 @@ knitr::include_graphics("img/youtube.png")
 ```{r,echo=FALSE,out.width='100%'}
 knitr::include_url("https://comunidadbioinfo.github.io/es/codigo-de-conducta/")
 ```
+
 ---
 # Con el apoyo de
 
